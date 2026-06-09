@@ -170,6 +170,3 @@ Verified it survives a reboot:
 sudo reboot
 sudo systemctl status eschool
 ```
-
-The service comes up automatically and the app is reachable without any
-manual start.
